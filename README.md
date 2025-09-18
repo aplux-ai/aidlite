@@ -53,3 +53,7 @@ AidLite's highly unified API abstraction supports different AI frameworks, allow
 
 - [Example: Run YOLOv5 Inference on Qualcomm NPU](https://docs.aidlux.com/en/guide/software/sdk/aidlite/aidlite-sdk#example)
 - [Deploy YOLOv5s by Model Farm and inference by AidLite](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#deploy-yolov5s)
+
+## Contact Us
+
+- [contact APLUX](mailto:liuweibin@aidlux.com?cc=huangwenbo@aidlux.com) 
